@@ -1,25 +1,4 @@
-![Logo](logo.png)
-A 3d game engine using an ECS
+![Logo](logo-grayscale.png)
 
 
-
-# Tech Stack (Overview)
-> Those aren't definitive choices
-
- - **Rendering / Graphics**
-   - [glfw](https://github.com/glfw/glfw): Window creator
-   - [bgfx](https://github.com/bkaradzic/bgfx) ([website](https://www.glfw.org)): Graphics abstraction
-
- - **Physics**
-   - [ReactPhysics3D](https://github.com/DanielChappuis/reactphysics3d) ([website](https://www.reactphysics3d.com/download.html)): Rigid bodies, colliders, etc.
-g
- - **ECS**
-   - [EnTT](https://github.com/skypjack/entt): Manage entities and components
- - **Assets**
-   - [Assimp](https://github.com/assimp/assimp): To load 3d models, textures...
-
-- **Later**
-   - *Scripting*: Lua (using sol2)
-   - *Audio*: OpenAL or other
-   - *Editor*: And project/scene editor using Qt
-
+!> This is an old and outdated repository of the Koji project, the current repository is avaible [here](https://github.com/mathe-man/Koji)
